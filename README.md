@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="food-ordering-app-gold.vercel.app"><b>Food App</b></a></td>
+      <td><a href="https://food-ordering-app-gold.vercel.app"><b>Food App</b></a></td>
       <td><a href="https://github.com/rahulyadav3766/Food-Ordering-App"><b>Repo</b></a></td>
     </tr>
     <tr>
