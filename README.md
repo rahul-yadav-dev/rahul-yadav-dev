@@ -27,10 +27,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/rahulyadav3766/Food-Ordering-App"><b>Food Ordering App</b></a></td>
+      <td><a href="food-ordering-app-gold.vercel.app"><b>Food App</b></a></td>
+      <td><a href="https://github.com/rahulyadav3766/Food-Ordering-App"><b>Repo</b></a></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/rahulyadav3766/netflix-gpt"><b>Netflix-Gpt</b></a></td>
+    <tr>
+      <td><a href="https://netflix-gpt-rouge.vercel.app/"><b>Netflix-Gpt</b></a></td>
+      <td><a href="https://github.com/rahulyadav3766/netflix-gpt"><b>Repo</b></a></td>	  
     </tr>
   </tbody>
 </table>
