@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=" https://system-design-app.vercel.app/"><b>System Design</b></a></td>
+      <td><a href="https://system-design-app.vercel.app/"><b>System Design</b></a></td>
       <td><a href="https://github.com/rahul-yadav-dev/system-design-app"><b>Repo</b></a></td>
     </tr>
     <tr>
